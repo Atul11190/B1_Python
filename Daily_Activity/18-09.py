@@ -1,5 +1,4 @@
 import tkinter as tk  # GUI
-
 root = tk.Tk()
 
 root.title("Anonymous")
